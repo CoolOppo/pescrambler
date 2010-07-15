@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PEScrambler", "PEScrambler\PEScrambler.vcproj", "{9F8B4615-0BD6-4C10-9ED6-984756FECFE7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libdis", "libdis\libdis.vcproj", "{B50741E4-890C-4E5A-83F1-6BC8DF368A75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libpefile", "libpefile\libpefile.vcproj", "{D0320103-013B-4141-AB6A-1A5733176683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8B4615-0BD6-4C10-9ED6-984756FECFE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F8B4615-0BD6-4C10-9ED6-984756FECFE7}.Debug|Win32.Build.0 = Debug|Win32
+		{9F8B4615-0BD6-4C10-9ED6-984756FECFE7}.Release|Win32.ActiveCfg = Release|Win32
+		{9F8B4615-0BD6-4C10-9ED6-984756FECFE7}.Release|Win32.Build.0 = Release|Win32
+		{B50741E4-890C-4E5A-83F1-6BC8DF368A75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B50741E4-890C-4E5A-83F1-6BC8DF368A75}.Debug|Win32.Build.0 = Debug|Win32
+		{B50741E4-890C-4E5A-83F1-6BC8DF368A75}.Release|Win32.ActiveCfg = Release|Win32
+		{B50741E4-890C-4E5A-83F1-6BC8DF368A75}.Release|Win32.Build.0 = Release|Win32
+		{D0320103-013B-4141-AB6A-1A5733176683}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0320103-013B-4141-AB6A-1A5733176683}.Debug|Win32.Build.0 = Debug|Win32
+		{D0320103-013B-4141-AB6A-1A5733176683}.Release|Win32.ActiveCfg = Release|Win32
+		{D0320103-013B-4141-AB6A-1A5733176683}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
