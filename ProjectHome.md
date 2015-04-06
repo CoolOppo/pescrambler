@@ -1,0 +1,1 @@
+PEScrambler is a tool to obfuscate win32 binaries automatically.  It can relocate portions of code and protect them with anti-disassembly code.  It also defeats static program flow analysis by re-routing all function calls through a central dispatcher function.
